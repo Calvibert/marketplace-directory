@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "business": "Exceltoner",
+        "logo": "https://www.exceltoner.ca/img/logo.jpg",
+        "website":"https://www.exceltoner.ca",
+        "description": "fsadfdsa"
+    },
+    {
+        "id": "2",
+        "business": "Tik Tok",
+        "logo": "https://miro.medium.com/max/1200/1*qNAdTljaV4Xoge3NFq4I-A.png",
+        "website":"https://www.tiktok.io",
+        "description": "Tik Tok on the clock, but the party don't stop no!"
+    },
+    {
+        "id": "3",
+        "business": "Super C",
+        "logo": "https://www.carrefourrichelieu.com/app/uploads/sites/17/2018/04/SuperC_Web.png",
+        "website":"https://www.superc.ca",
+        "description": "Grocery store."
+    }
+]
