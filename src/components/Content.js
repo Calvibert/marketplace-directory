@@ -1,7 +1,6 @@
 import Home from './Content/Home';
 import Directory from './Content/Directory';
 import Contact from './Content/Contact';
-import Claim from './Content/Claim';
 
 function Content({ content, french }) {
 

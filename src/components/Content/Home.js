@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Card from '../Card';
 import translate from '../../lib/translate';
 
 export default function Home() {
@@ -30,13 +29,6 @@ export default function Home() {
                 <button onClick={handleSearchClick} className="btn btn-custom" type="button">Search</button>
             </div>
         </div>
-        {entries.map(entry => {
-            return (
-                <div key={entry.id}>
-                    <Card data={entry}/>
-                </div>
-            );
-        })}
         <h2>What we do:</h2>
         <p>Want to get something to someone fast? Just contact us! We'll come pick up and deliver for you in no time. We operate as a marketplace if you want to use our services.</p>
         <h2>Our mission!</h2>
