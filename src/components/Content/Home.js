@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Card from '../Card';
+import translate from '../../lib/translate';
 
 export default function Home() {
     const [entries, setEntries] = useState([]);
