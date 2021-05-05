@@ -1,2 +1,1 @@
-# marketplace-directory
 # marketplace directory
