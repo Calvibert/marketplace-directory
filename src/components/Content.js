@@ -10,8 +10,6 @@ function Content({ content, french }) {
         return <Directory />;
     } else if (content === 'contact') {
         return <Contact />;
-    } else if (content === 'claim') {
-        return <Claim french={french}/>;
     }
     return content;
 }
